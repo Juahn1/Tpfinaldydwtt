@@ -1,0 +1,17 @@
+.row .col div {
+    background-color: gray;
+    min-height: 20rem;
+  }
+
+.header {
+    background-color: burlywood;
+}
+
+.box1 img {
+  object-fit: fill;
+}
+
+.box img {
+  width: 100%;
+  height: 100%;
+}
